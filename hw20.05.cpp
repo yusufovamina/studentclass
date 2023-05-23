@@ -1,5 +1,5 @@
 #include<iostream>
-#include"classes.h"
+#include"student.h"
 using namespace std;
 
 int main() {

@@ -18,12 +18,12 @@
     <ClCompile Include="hw20.05.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="classes.cpp">
+    <ClCompile Include="student.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="classes.h">
+    <ClInclude Include="student.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

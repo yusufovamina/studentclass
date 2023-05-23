@@ -1,6 +1,6 @@
 #include<iostream>
 #include<string>
-#include"classes.h"
+#include"student.h"
 using namespace std;
 
 int Student::getbirthday() {
